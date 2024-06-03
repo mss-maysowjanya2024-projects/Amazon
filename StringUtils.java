@@ -1,1 +1,2 @@
-Hello this file contains the string related java
+Hello this file contains the string related functions...
+
