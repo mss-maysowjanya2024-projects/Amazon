@@ -1,1 +1,1 @@
-this is the javascript  file
+this is the terraform file
